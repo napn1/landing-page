@@ -1,0 +1,17 @@
+
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/wp-content/uploads/
+
+*.log
+*.tmp
+*.bak
+*.DS_Store
+*.zip
+*.tar
+*.gz
+node_modules/
+vendor/
+
+!wp-content/themes/mytheme/
